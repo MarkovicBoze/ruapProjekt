@@ -1,0 +1,4 @@
+#Mon Sep 18 20:01:23 CEST 2017
+base.0=D\:\\JA\\klase\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_24aa7454433bec88ecf2a2d300e1ef22cf099ede
+renamed.0=classes.dex
+file.0=D\:\\JA\\klase\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_24aa7454433bec88ecf2a2d300e1ef22cf099ede\\classes.dex

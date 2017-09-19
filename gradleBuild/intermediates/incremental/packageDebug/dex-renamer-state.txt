@@ -1,0 +1,7 @@
+#Mon Sep 18 20:01:25 CEST 2017
+base.0=D\:\\JA\\klase\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_82a87dffdbfc2bac7dee029f0bb1387e67e91c4a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\JA\\klase\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4124b93651228c9682b49284c5417a8a78aba782\\classes.dex
+base.1=D\:\\JA\\klase\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4124b93651228c9682b49284c5417a8a78aba782
+file.0=D\:\\JA\\klase\\tensorflow-for-poets-2\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_82a87dffdbfc2bac7dee029f0bb1387e67e91c4a\\classes.dex

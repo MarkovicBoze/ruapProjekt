@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\JA\klase\tensorflow-for-poets-2\android\gradleBuild\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\JA\klase\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_82a87dffdbfc2bac7dee029f0bb1387e67e91c4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EUGEN\.android\build-cache\665d978be6d65db5dec5fcc436200fbc6cf838ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="D:\JA\klase\tensorflow-for-poets-2\android\gradleBuild\intermediates\pre-dexed\debug\classes_24aa7454433bec88ecf2a2d300e1ef22cf099ede.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\EUGEN\.android\build-cache\665d978be6d65db5dec5fcc436200fbc6cf838ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="D:\JA\klase\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_24aa7454433bec88ecf2a2d300e1ef22cf099ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\JA\klase\tensorflow-for-poets-2\android\gradleBuild\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ced88dca314b83a3e545b6e3409976f64a99889">
+        <dex dex="D:\JA\klase\tensorflow-for-poets-2\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4124b93651228c9682b49284c5417a8a78aba782\classes.dex" />
+    </item>
+
+</items>
